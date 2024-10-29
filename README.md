@@ -11,7 +11,7 @@ The goal of this project is to bring up a 4-degrees-of-freedom robot manipulator
   ```
   git clone https://github.com/choppyS/Homework-1---RL2024.git
   ```
-   Remember to extract the folders from the main folder Homework-1---RL2024 into /ros2_ws/src!
+   Remember to extract the folders from the main folder RL2024---Homework1 into /ros2_ws/src!
    
 
 2. **Build the packages** in your ROS2 workspace.
